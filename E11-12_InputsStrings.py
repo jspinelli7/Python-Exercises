@@ -18,6 +18,7 @@ print(f"You have lived for {months} months.")
 
 my_string = """Hello, world.
 
+This is a multiline string.
 
 My name is Joseph. Welcome to my program.
 """
